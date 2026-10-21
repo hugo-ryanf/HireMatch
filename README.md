@@ -1,4 +1,4 @@
-# 💼 HireMatch
+# HireMatch
 
 > Sistema inteligente de recomendação de vagas de emprego com NLP e embeddings semânticos.
 
@@ -6,7 +6,7 @@ HireMatch analisa o seu currículo (PDF ou texto), extrai automaticamente suas h
 
 ---
 
-## 🖥️ Interface
+## Interface
 
 ### Tela 1 — Envio do Currículo
 Faça upload do seu currículo em PDF ou cole o texto diretamente. O sistema processa automaticamente e detecta suas habilidades técnicas.
@@ -25,7 +25,7 @@ Veja o perfil extraído do seu currículo: nível, idiomas detectados e o texto 
 
 ---
 
-## ⚙️ Como Funciona
+##  Como Funciona
 
 ```
 Currículo (PDF/texto)
@@ -65,7 +65,7 @@ Currículo (PDF/texto)
 
 ---
 
-## 🚀 Como Rodar Localmente
+##  Como Rodar Localmente
 
 ### Pré-requisitos
 
@@ -129,7 +129,7 @@ Acesse em: **http://localhost:8501**
 
 ---
 
-## 📡 Endpoints da API
+##  Endpoints da API
 
 | Método | Endpoint | Descrição |
 |--------|----------|-----------|
@@ -146,7 +146,7 @@ Documentação interativa disponível em: **http://localhost:8000/docs**
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 hirematch/
@@ -179,7 +179,7 @@ hirematch/
 
 ---
 
-## 🧪 Testes
+##  Testes
 
 ```bash
 pytest tests/ -v
@@ -187,7 +187,7 @@ pytest tests/ -v
 
 ---
 
-## 📊 Métricas de Avaliação
+##  Métricas de Avaliação
 
 O sistema suporta as seguintes métricas para avaliar a qualidade das recomendações:
 
@@ -196,7 +196,7 @@ O sistema suporta as seguintes métricas para avaliar a qualidade das recomenda�
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **Hugo Ryan**
 [github.com/hugo-ryanf](https://github.com/hugo-ryanf)
